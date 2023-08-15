@@ -4,14 +4,7 @@ Hello, **Rick and Morty** fans! 🌌
 
 Step right into our ship to know the **Rick and Morty App** 🛸
 
-
-Browse an extensive list of characters from the TV show.
 Dive into detailed character profiles, featuring attributes such as name, status, species, and more.
-
-![Simulator Screen Shot - iPhone 14 Pro - 2023-08-15 at 18 44 27](https://github.com/oroscoiara/RickAndMortyApp/assets/76779189/727126a7-80d6-4398-b83e-cdecd1146da2) | 
-![Simulator Screen Shot - iPhone 14 Pro - 2023-08-15 at 18 44 32](https://github.com/oroscoiara/RickAndMortyApp/assets/76779189/c42873a0-4037-43c8-abbe-1bdb856bc6de)
-
-
 
 ### Overview
 
@@ -49,12 +42,7 @@ Dive into detailed character profiles, featuring attributes such as name, status
 
 
 
-
-
-
 ### To Be Done
-
-
 
 
 
@@ -83,3 +71,4 @@ Dive into detailed character profiles, featuring attributes such as name, status
 
 
 ######Thanks for visiting! 🙌
+
