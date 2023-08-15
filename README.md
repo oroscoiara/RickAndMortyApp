@@ -8,9 +8,8 @@ Step right into our ship to know the **Rick and Morty App** 🛸
 Browse an extensive list of characters from the TV show.
 Dive into detailed character profiles, featuring attributes such as name, status, species, and more.
 
-<img width="283" alt="image" src="https://github.com/oroscoiara/RickAndMortyApp/assets/76779189/67b70d17-8a2d-490a-9bc6-e38b8b59442b">
- | <img width="280" alt="image" src="https://github.com/oroscoiara/RickAndMortyApp/assets/76779189/e4420e10-b78c-45af-971c-6b63c3521e83">
- | <img width="281" alt="image" src="https://github.com/oroscoiara/RickAndMortyApp/assets/76779189/b54c093a-9244-4b12-98a6-58e19809dd8b">
+![Simulator Screen Shot - iPhone 14 Pro - 2023-08-15 at 18 44 27](https://github.com/oroscoiara/RickAndMortyApp/assets/76779189/727126a7-80d6-4398-b83e-cdecd1146da2) | 
+![Simulator Screen Shot - iPhone 14 Pro - 2023-08-15 at 18 44 32](https://github.com/oroscoiara/RickAndMortyApp/assets/76779189/c42873a0-4037-43c8-abbe-1bdb856bc6de)
 
 
 
