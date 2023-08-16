@@ -6,12 +6,9 @@ Step right into our ship to know the **Rick and Morty App** 🛸
 
 Dive into detailed character profiles, featuring attributes such as name, status, species, and more.
 
-
-<img width="217" alt="image" src="https://github.com/oroscoiara/RickAndMortyApp/assets/76779189/5a8feadd-d248-4424-b010-ec7fa6e2ce9a"> | <img width="221" alt="image" src="https://github.com/oroscoiara/RickAndMortyApp/assets/76779189/d3d73ce7-a502-44a2-b752-627ada7b8316"> |
- <img width="221" alt="image" src="https://github.com/oroscoiara/RickAndMortyApp/assets/76779189/24963186-d984-4105-bbd0-68ecab8aca75">
-
-
-
+<img width="221" alt="image" src="https://github.com/oroscoiara/RickAndMortyApp/assets/76779189/24963186-d984-4105-bbd0-68ecab8aca75">  
+<img width="221" alt="image" src="https://github.com/oroscoiara/RickAndMortyApp/assets/76779189/d3d73ce7-a502-44a2-b752-627ada7b8316">  
+<img width="217" alt="image" src="https://github.com/oroscoiara/RickAndMortyApp/assets/76779189/5a8feadd-d248-4424-b010-ec7fa6e2ce9a"> 
 
 ### Overview
 
