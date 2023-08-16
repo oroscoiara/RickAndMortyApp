@@ -17,6 +17,7 @@ Dive into detailed character profiles, featuring attributes such as name, status
 
 🏗️ MVVM Architecture.
 
+🧪 Unit tests with Quick and Nimble.
 
 📖 Documentation for future reference.
 
