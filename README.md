@@ -5,6 +5,8 @@ Hello, **Rick and Morty** fans! 🌌
 Step right into our ship to know the **Rick and Morty App** 🛸
 
 Dive into detailed character profiles, featuring attributes such as name, status, species, and more.
+
+
 <img width="201" alt="image" src="https://github.com/oroscoiara/RickAndMortyApp/assets/76779189/141bb5ed-9a0e-4e00-9f43-39d49a8a88cc">
  | <img width="201" alt="image" src="https://github.com/oroscoiara/RickAndMortyApp/assets/76779189/8b2cf8f3-09f2-42b3-9be5-a013fc2df571">
 
